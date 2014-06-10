@@ -6,7 +6,11 @@ This mod is for those who want a more "authentic" retro experience.
 
 #### Original
 
+High resolution screenshots [one](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res_h.gif) and [two](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_ogre_h.gif).
+
 ![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res.gif)
+
+![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_ogre.gif)
 
 #### Retro
 

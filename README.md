@@ -4,21 +4,19 @@ This is a Quake 1 mod which intends to emulate a lower resolution and reduced co
 
 This mod is for those who want a more "authentic" retro experience.
 
+See high resolution [before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res_h.gif) and [after](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look_h.gif).
+
 #### Original
-
-High resolution screenshots [one](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res_h.gif) and [two](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_ogre_h.gif).
-
-![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res.gif)
 
 ![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_ogre.gif)
 
+[See high resolution version](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_ogre_h.gif).
+
 #### Retro
 
-High resolution screenshots [one](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look_h.gif) and [two](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_ogre_h.gif).
-
-![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look.gif)
-
 ![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_ogre.gif)
+
+[See high resolution version](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_ogre_h.gif).
 
 ### Install
 

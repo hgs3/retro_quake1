@@ -14,7 +14,11 @@ High resolution screenshots [one](https://raw.githubusercontent.com/zippers/retr
 
 #### Retro
 
+High resolution screenshots [one](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look_h.gif) and [two](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_ogre_h.gif).
+
 ![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look.gif)
+
+![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_ogre.gif)
 
 ### Install
 

@@ -4,7 +4,15 @@ This is a Quake 1 mod which intends to emulate a lower resolution and reduced co
 
 This mod is for those who want a more "authentic" retro experience.
 
-#### Install
+#### Original
+
+![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/high_res.gif)
+
+#### Retro
+
+![before](https://raw.githubusercontent.com/zippers/retro_quake1/screenshots/retro_look.gif)
+
+### Install
 
 1. Obtain a retail version of Quake 1.
 2. Download the [darkplaces engine](http://icculus.org/twilight/darkplaces/files/darkplacesengine20140513.zip).
